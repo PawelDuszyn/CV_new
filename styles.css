@@ -50,15 +50,15 @@ h3{
 
 .top-cloud{
     position: absolute;
-    right: 10%;
-    top: 50px;
+    left: 80%;
+    top: 10%;
     width: 300px;
 }
 
 .bottom-cloud{
     position: absolute;
-    left: 20%;
-    bottom: 40%;
+    right: 70%;
+    bottom: 30%;
     width: 300px;
     
 }
